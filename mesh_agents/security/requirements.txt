@@ -1,0 +1,2 @@
+-r ../../requirements.txt
+pydantic-ai-slim[openai,anthropic,google,groq,mistral]>=1.0

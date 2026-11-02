@@ -1,0 +1,6 @@
+-r ../../requirements.txt
+langgraph>=0.2
+langchain>=0.3
+langchain-openai>=0.2          # add langchain-anthropic / langchain-google-genai / langchain-groq / langchain-ollama as needed
+langchain-anthropic>=0.3
+langchain-google-genai>=2.0
